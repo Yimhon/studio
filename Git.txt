@@ -414,7 +414,7 @@ $ git log --graph --pretty=oneline --abbrev-commit
 $ git branch -d feature1
 Deleted branch feature1 (was 75a857c).
 工作完成。
-
+用git log --graph命令可以看到分支合并图。
 
 
 
